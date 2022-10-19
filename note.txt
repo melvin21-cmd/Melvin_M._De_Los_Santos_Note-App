@@ -1,1 +1,1 @@
-[{"id":"1","title":"Assignment","body":"Don't forget to create a portfolio design for midterm project"},{"id":"2","title":"its ok","body":"Can I make it"},{"id":"3","title":"sniper","body":"Ussop"},{"id":"4","title":"doctor","body":"Chopper"},{"id":"7","title":"luffy","body":"vice-captain"}]
+[{"id":"1","title":"Assignment","body":"Don't forget to create a portfolio design for midterm project"},{"id":"2","title":"its ok","body":"Can I make it"},{"id":"4","title":"doctor","body":"Chopper"},{"id":"7","title":"luffy","body":"vice-captain"}]
