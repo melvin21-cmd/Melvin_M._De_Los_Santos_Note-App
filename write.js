@@ -1,7 +1,7 @@
 const fs =require('fs')
 
-const write = function(){
-    fs.writeFileSync('note.txt', "Hey!")
+const write = function(data="How's the day?"){
+    fs.writeFileSync('note.txt', data)
 }
 
 module.exports = write

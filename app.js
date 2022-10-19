@@ -1,3 +1,5 @@
 const write = require('./write')
 
-write()
+const data = process.argv[2]
+
+write(data)
